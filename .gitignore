@@ -1,0 +1,6 @@
+data/raw/
+models/
+reports/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
